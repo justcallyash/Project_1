@@ -2,7 +2,7 @@ def main():
     choice = 0
     taskls = []
 
-    while choice != 3:
+    while choice != 4:
         print("What would you like to do")
         print("1) Add a new task")
         print("2) Update a task status")
